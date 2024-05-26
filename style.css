@@ -1,0 +1,37 @@
+body{
+    font-family: "Poppins", sans-serif;
+    background-color:#002379;
+    color: #FF5F00;
+
+}
+
+
+nav{
+    background-color: white;
+}
+
+ ol li a, del, #action a { 
+    color: #fff;
+}
+
+
+
+
+button{
+    background-color: #FF5F00;
+}
+
+
+.title{
+    color: #FF5F00;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px white;
+}
+
+
+footer{
+    background-color: #3d5fb4;
+    height: 100px;
+ 
+}
